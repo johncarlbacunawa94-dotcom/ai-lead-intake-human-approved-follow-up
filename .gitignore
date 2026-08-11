@@ -1,0 +1,23 @@
+# Private workflow/source exports
+Workflow_Exports/
+Export_Sanitization/
+*.workflow.json
+
+# Credentials and environment files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files and archives
+*.tmp
+*.bak
+*.zip
