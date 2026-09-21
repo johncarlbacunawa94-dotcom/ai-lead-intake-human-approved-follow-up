@@ -12,7 +12,15 @@ Customer email is never sent automatically. The workflow prepares the draft, but
 
 The system also includes daily operational reporting, duplicate-decision protection, and centralized failure alerts so the workflow can be monitored and recovered without blindly repeating actions in Gmail, HubSpot, or Google Calendar.
 
+## Architecture Overview
 
+[![AI Lead Intake & Human-Approved Follow-Up architecture](evidence/architecture/01-architecture-overview.gif)](ARCHITECTURE.md)
+
+The architecture separates multi-source lead intake, controlled qualification, human review, CRM synchronization, approved follow-up preparation, persistent operational state, and independent reporting.
+
+AI assists with qualification and follow-up preparation, while deterministic rules and explicit human approval control what can proceed. Customer-facing email remains draft-only until a human reviews and sends it.
+
+[View detailed architecture documentation →](ARCHITECTURE.md)
 
 ## What this system handles
 
