@@ -14,7 +14,7 @@ The system also includes daily operational reporting, duplicate-decision protect
 
 ## Architecture Overview
 
-[![AI Lead Intake & Human-Approved Follow-Up architecture](evidence/architecture/01-architecture-overview.gif)](ARCHITECTURE.md)
+[![AI Lead Intake & Human-Approved Follow-Up architecture](Portfolio_Evidence/architecture/01-architecture-overview.gif)](ARCHITECTURE.md)
 
 The architecture separates multi-source lead intake, controlled qualification, human review, CRM synchronization, approved follow-up preparation, persistent operational state, and independent reporting.
 
