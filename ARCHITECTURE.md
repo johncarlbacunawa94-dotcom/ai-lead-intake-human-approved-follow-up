@@ -1,5 +1,5 @@
 # System Architecture
-![AI Lead Intake & Human-Approved Follow-Up architecture](evidence/architecture/01-architecture-overview.png)
+![AI Lead Intake & Human-Approved Follow-Up architecture](Portfolio_Evidence/architecture/01-architecture-overview.png)
 
 The project is divided into separate workflows so intake, qualification, CRM work, review, follow-up, reporting, and failure handling can be maintained independently.
 
